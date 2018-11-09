@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ProgramOne\ProgramOne\bin\Debug\ProgramOne.exe.config
+C:\Users\User\source\repos\ProgramOne\ProgramOne\bin\Debug\ProgramOne.exe
+C:\Users\User\source\repos\ProgramOne\ProgramOne\bin\Debug\ProgramOne.pdb
+C:\Users\User\source\repos\ProgramOne\ProgramOne\obj\Debug\ProgramOne.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProgramOne\ProgramOne\obj\Debug\ProgramOne.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProgramOne\ProgramOne\obj\Debug\ProgramOne.exe
+C:\Users\User\source\repos\ProgramOne\ProgramOne\obj\Debug\ProgramOne.pdb
