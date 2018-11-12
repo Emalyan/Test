@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MasString\MasString\bin\Debug\MasString.exe.config
+C:\Users\User\source\repos\MasString\MasString\bin\Debug\MasString.exe
+C:\Users\User\source\repos\MasString\MasString\bin\Debug\MasString.pdb
+C:\Users\User\source\repos\MasString\MasString\obj\Debug\MasString.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MasString\MasString\obj\Debug\MasString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MasString\MasString\obj\Debug\MasString.exe
+C:\Users\User\source\repos\MasString\MasString\obj\Debug\MasString.pdb
