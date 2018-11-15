@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MatrixCalkylator\MatrixCalkylator\bin\Debug\MatrixCalkylator.exe.config
+C:\Users\User\source\repos\MatrixCalkylator\MatrixCalkylator\bin\Debug\MatrixCalkylator.exe
+C:\Users\User\source\repos\MatrixCalkylator\MatrixCalkylator\bin\Debug\MatrixCalkylator.pdb
+C:\Users\User\source\repos\MatrixCalkylator\MatrixCalkylator\obj\Debug\MatrixCalkylator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MatrixCalkylator\MatrixCalkylator\obj\Debug\MatrixCalkylator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MatrixCalkylator\MatrixCalkylator\obj\Debug\MatrixCalkylator.exe
+C:\Users\User\source\repos\MatrixCalkylator\MatrixCalkylator\obj\Debug\MatrixCalkylator.pdb
